@@ -73,7 +73,7 @@ export default function Navbar() {
             <h1 className="font-extrabold text-lg tracking-tight text-gray-800">
               MusTex Healthcare
             </h1>
-            <p className="text-xs text-gray-500 -mt-1">Must be feel the heal</p>
+            <p className="text-xs text-gray-500 -mt-1">Where Quality is a Must</p>
           </div>
         </Link>
 
